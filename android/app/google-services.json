@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001544565049",
+    "project_id": "itravel-nary",
+    "storage_bucket": "itravel-nary.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001544565049:android:e0302844d22953ca4968e8",
+        "android_client_info": {
+          "package_name": "com.itravel.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCz0_oDYqAL8KtJi3QyG17JZ0r0lqYw9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
