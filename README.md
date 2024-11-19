@@ -18,7 +18,7 @@
 - **Google Maps API**: For location-based features and interactive maps.
 - **API Integration**: For travel recommendations, weather, and booking services.
 
-**Portfolio link** is clearly visible with bolded text: [**DevFaru Portfolio**](https://devfaru.netlify.app)
+**Portfolio** : [**Farhad Portfolio**](https://devfaru.netlify.app)
 
 Clone the repository:
    ```bash
