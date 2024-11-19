@@ -18,10 +18,8 @@
 - **Google Maps API**: For location-based features and interactive maps.
 - **API Integration**: For travel recommendations, weather, and booking services.
 
-## Installation
+**Portfolio link** is clearly visible with bolded text: [**DevFaru Portfolio**](https://devfaru.netlify.app)
 
-To get started with iTravel, clone this repository and follow these steps:
-
-1. Clone the repository:
+Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/itravel.git
+   git clone https://github.com/leefarhadaman/itravel.git
